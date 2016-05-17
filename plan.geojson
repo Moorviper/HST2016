@@ -1,0 +1,298 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CPE 2,4 Ghz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685639142990112,
+          50.56497087989004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.685636460781097,
+            50.56497769487651
+          ],
+          [
+            9.68544065952301,
+            50.56462672179196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CPE 2,4 Ghz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685580134391785,
+          50.56499813982998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.685561358928679,
+            50.5649998435757
+          ],
+          [
+            9.685159027576447,
+            50.56477154109995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "CPE 2,4 Ghz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685526490211487,
+          50.5650185847746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.68546211719513,
+            50.56503391847723
+          ],
+          [
+            9.684759378433228,
+            50.56520940382983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CPE 5Ghz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.68544602394104,
+          50.56505606714998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CPE 5 Ghz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685075879096985,
+          50.56477154109995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.685443341732025,
+            50.56508503078331
+          ],
+          [
+            9.685078561306,
+            50.56480731991923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bullet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685105383396149,
+          50.56475279980281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CPE 2,4 Ghz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684922993183136,
+          50.565400222112345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.684922993183136,
+            50.565400222112345
+          ],
+          [
+            9.684737920761107,
+            50.56496917614328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "bullet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684979319572449,
+          50.56522473747039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "fffd-HST-2016-Offloader-Foxtrot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684241712093353,
+          50.564916359962844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "fffd-HST-2016-Offloader-Alpha (asta)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.684813022613525,
+          50.56550074214687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "fffd-HST-2016-Offloader-Charlie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.68564450740814,
+          50.56509525323788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "fffd-HST-2016-Offloader-Bravo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685175120830536,
+          50.56531333174025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "wdr 3600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.68441069126129,
+          50.564805616166545
+        ]
+      }
+    }
+  ]
+}
